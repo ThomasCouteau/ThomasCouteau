@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm Thomas, a full-stack developer passionate about building useful and intuitive tools for users.
+
+On this GitHub profile, I share personal projects, experiments, and prototypes.
+My goal is to showcase the things I enjoy creating, exploring, and learning — sometimes small utilities, sometimes more ambitious ideas.
+
+### 🛠️ Tech & Tools
+Here are some of the technologies and tools I use regularly:
+- Vue, TypeScript, Node.js, Tailwind CSS
+- Figma, VS Code, Notion
